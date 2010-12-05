@@ -1,0 +1,10 @@
+# Version control files
+\.svn
+
+# Build files
+^Makefile$
+^Makefile.old$
+^blib/
+
+# Editor files
+~$
