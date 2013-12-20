@@ -1,5 +1,9 @@
 Revision history for Perl extension Lingua::Sentence.
 
+1.05  Dec 19, 2013
+	- added language support for Danish, Finnish, Lithuanian and updated
+	  language support for Greek
+
 1.04  Fri Feb 01 15:30:00 2013
 	- added language support for Czech, Hungarian, Icelandic, Latvian, 
 	  Polish, Romanian, Russian, Slovak, Slovenian and Swedish

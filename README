@@ -1,4 +1,4 @@
-Lingua-Sentence version 1.03
+Lingua-Sentence version 1.05
 ============================
 
 This module allows splitting of text paragraphs into sentences. 
@@ -28,7 +28,7 @@ This module requires these other modules and libraries:
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2010 by Digital Silk Road
+Copyright (C) 2013 by Digital Silk Road
 
 Portions Copyright (C) 2005 by Philip Koehn and Josh Schroeder (used with permission)
 
